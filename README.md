@@ -1,6 +1,6 @@
 # cvhost32
 This keylogger has been developed for only penetration and reverse engineering tests.
-
+Log path: C:\Users\%USER NAME%\AppData\Roaming\catchme.log
 
    Test Log     | Virus Total
 -------------------------|-------------------------
